@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063984636613",
+    "firebase_url": "https://attendme-644ac-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "attendme-644ac",
+    "storage_bucket": "attendme-644ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063984636613:android:ba686467cc9e8089a086ac",
+        "android_client_info": {
+          "package_name": "com.example.attendme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063984636613-romgu5d8tt617vffa2p880hc97edd1uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendme",
+            "certificate_hash": "7af30b902fdac7f739b42901b3a12993ebbdc4ab"
+          }
+        },
+        {
+          "client_id": "1063984636613-5dq0gjuv9jc61eernem1qvua3c60b69b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDagcdWw9rrSbK0cESgNUklEKR31A6pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063984636613-5dq0gjuv9jc61eernem1qvua3c60b69b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
